@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+
+    <h1>With My Pair</h1>
+
+    <img src="/IMAGES/IMG_20260214_203409.jpg" alt="With My Pair image" width="400">
+
+</body>
+</html>
